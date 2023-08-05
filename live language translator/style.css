@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#translation-input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#translation-output {
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+}
